@@ -8,6 +8,10 @@
 .marginBottom20{
     margin-bottom: 20px;
 }
+.margintop300{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
 .paddingtop20{
     padding-top: 20px;
 }
@@ -15,12 +19,11 @@
     background-color: #2e3192;
 }
 .parallax-container {
-    height: 500px;
+    height: 300px;
 }
 .navbar-fixed {
     position: absolute;
     z-index:999999999;
-    padding: 20%;
 }
 #menu222 {
     position: fixed;
